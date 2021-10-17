@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'Festive';
+  src: local('Festive'), url(./fonts/Festive/Festive-Regular.ttf) format('opentype');
+}
+
+
 .App {
   text-align: center;
 }
